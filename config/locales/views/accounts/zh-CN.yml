@@ -32,9 +32,16 @@ zh-CN:
       new_account: 新建账户
       no_accounts: 暂无账户
     form:
+      additional_details: 附加信息
       balance: 当前余额
+      institution_domain_label: 金融机构域名
+      institution_domain_placeholder: 例如：chase.com
+      institution_name_label: 金融机构名称
+      institution_name_placeholder: 例如：摩根大通银行
       name_label: 账户名称
       name_placeholder: 例如：储蓄账户
+      notes_label: 备注信息
+      notes_placeholder: 存储附加信息，如账号、分类代码、IBAN、路由号码等。
     index:
       accounts: 账户管理
       manual_accounts:

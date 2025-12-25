@@ -35,7 +35,7 @@ zh-CN:
       all_accounts_already_linked: 所有 SimpleFIN 账户似乎均已关联。
       cancel: 取消
       check_provider_health: 检查服务提供商状态
-      currently_linked_to: "当前关联到：%{account_name}"
+      currently_linked_to: 当前关联到：%{account_name}
       description: 选择一个 SimpleFIN 账户与您的现有账户关联
       link_account: 关联账户
       no_accounts_found: 此家庭未找到 SimpleFIN 账户。

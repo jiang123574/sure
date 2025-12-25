@@ -1,5 +1,9 @@
 ---
 zh-CN:
+  UI:
+    account:
+      activity_feed:
+        toggle_selection_checkboxes: 切换选择复选框
   activerecord:
     attributes:
       doorkeeper/application:

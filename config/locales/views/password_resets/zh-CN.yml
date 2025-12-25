@@ -1,6 +1,7 @@
 ---
 zh-CN:
   password_resets:
+    disabled: Sure 的密码重置功能已禁用。请通过您的身份提供商重置密码。
     edit:
       title: 重置密码
     new:
@@ -11,3 +12,4 @@ zh-CN:
     update:
       invalid_token: 验证令牌无效。
       success: 密码已重置成功。
+      

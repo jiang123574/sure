@@ -1,0 +1,5 @@
+---
+zh-CN:
+  oidc_accounts:
+    link:
+      account_creation_disabled: 通过单点登录创建新账户的功能已禁用。请联系管理员为您创建账户。
